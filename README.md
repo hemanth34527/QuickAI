@@ -240,7 +240,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-Your Name
+Nidamanuri Hemanth Gopal
 
 ## 🙏 Acknowledgments
 
